@@ -1,5 +1,5 @@
 # Spark on Docker
-This project uses Amazon Coretto as the JDK and Amazon Linux as the base.
+The initial version of this project was created for coursework at UW. It has been updated and moved to GitHub to use JDK 11 and use Amazon Corretto instead of OpenJDK.
 
 ## Instructions
 - Create the images by running `create-images.sh`.
